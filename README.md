@@ -4,6 +4,6 @@
   
 
 - 🙋‍♂️ I'm M0ltr3x 🙋‍♂️  
-- 💻 LANGUAGE = ("Java", "Javascript", "Python", "PHP","HTML", "CSS"); 💻  
-- 💬 INTEREST = ("Coding 💻", "Fitness🏋️‍♂️";  
+- 💻 final String[]LANGUAGE = ("Java", "Javascript", "Python", "PHP","HTML", "CSS"); 💻  
+- 💬 final String[]INTEREST = ("Coding 💻", "Fitness🏋️‍♂️";  
 
