@@ -4,5 +4,5 @@ Soy m0ltr3x, estudiante de monlau y fanatico programador. Me encanta el aprendiz
   
   
 🙋‍♂️ I'm M0ltr3x 🙋‍♂️    
-💻 LANGUAGE = ("Java", "Javascript", "Python", "PHP","HTML", "CSS"); 💻  
-💬 INTEREST = ("Coding 💻", "Fitness🏋️‍♂️");  
+💻 LANGUAGE = ("Java" + "Javascript" + "Python" + "PHP" + "HTML" + "CSS" + "C++(a little)"); 💻  
+💬 INTEREST = ("Coding 💻" + "Fitness🏋️‍♂️");  
